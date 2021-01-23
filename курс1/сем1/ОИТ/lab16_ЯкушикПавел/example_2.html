@@ -1,0 +1,34 @@
+<html>
+<style type='text/css'>
+    @keyframes anim {
+    0% {
+        transform: translate(0,0);
+        background-color: gray;
+    }
+    50% {
+        background-color: gray;
+        border-radius: 0%;
+    }
+    100% {
+        transform: translate(100px,0);
+        border-radius: 100%;
+        background-color:gold;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+    }
+    #obj {
+    height:100px;
+    width:100px;
+    border: 10px;
+    animation:anim 1s 6;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    }
+    #obj:hover{
+        animation-play-state: paused;
+    }
+</style>
+<body>
+    <div id="obj"></div>
+</body>
+</html>

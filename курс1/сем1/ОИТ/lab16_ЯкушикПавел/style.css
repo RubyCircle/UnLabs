@@ -1,0 +1,25 @@
+.nav-item{
+    text-decoration: none;
+    color: black;;
+}
+.nav-menu *{
+    margin: 0;
+    padding: 0;
+}
+.nav-menu .nav-list{
+    list-style: none;
+    display: none;
+    padding: 2pt 0pt 2pt 4pt;
+    width: 30pt;
+    background-color: lightgrey;
+    border: 1px solid rgb(172, 171, 171);
+}
+.nav-menu:hover .nav-list{
+    color: seagreen;
+    display: block;
+}
+.nav-menu button{
+    padding: 0pt 2pt 2pt 2pt;
+    border: 1px solid gray;
+    width: 35pt;  
+}

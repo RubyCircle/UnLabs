@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(255, 251, 240);
+}
+h1, h2, h3, span{
+    color: darkslategrey;
+    font-family: monospace;
+    text-align: center;
+}
+#span1{
+    color: sandybrown;
+    font-family: initial;
+    text-decoration: underline;
+    font-size: 15pt;
+    line-height:1;
+}
+#span2{
+    color: maroon;
+    font-family: unset; 
+    text-decoration: line-through;
+    font-size: 20pt;
+    line-height:1;
+}
+/*new*/
+h1::first-letter,h2::first-letter,h3::first-letter{
+    border: black;
+    font-size: 150%;
+    color: red;
+    border: 2px solid gray;
+}
+p::first-line{
+    font-size: 120%;
+    text-decoration: underline;
+    color: black;
+}
+p::before{
+    content: "\"";
+    color: black;
+}
+p::after{
+    content: "\"";
+    color: black;
+}
+/*список*/
+ol li{
+    color: teal;
+    font-family: inherit;
+}
+ul li{
+    color: seagreen;
+    font-family: cursive;
+}
+/*ссылки*/
+a:hover{
+    color: olive;
+    font-size: 110%;
+}
+a:visited{
+    color: gray;
+}
+a:active{
+    font-size: 50%;
+}
+a:link{
+    color: gold;
+}
+/*таблица*/
+table{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    border-spacing: 1px;
+    border-color: white;
+}
+th, td{
+    border-width: 0 1px 1px 0;
+    text-align: center;
+}
+th{
+    background-color: rgb(173, 177, 255);
+}
+td{
+    background-color: rgb(217, 217, 243);
+}

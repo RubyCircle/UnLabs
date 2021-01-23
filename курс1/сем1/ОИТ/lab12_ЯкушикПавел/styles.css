@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(255, 251, 240);
+}
+h1, h2, h3, span{
+    color: darkslategrey;
+    font-family: monospace;
+    text-align: center;
+}

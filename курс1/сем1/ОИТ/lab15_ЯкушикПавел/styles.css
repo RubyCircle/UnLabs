@@ -1,0 +1,89 @@
+body {
+    /*background: linear-gradient(#eecbcb, #c6c9e9);*/
+    background: radial-gradient(#eecbcb, #c6c9e9);
+    background-size: 500px 500px, 100% 100%;
+    /*background-image: url(background.png), url(image.jpg);*/
+}
+h1, h2, h3, span{   
+    color: darkslategrey;
+    font-family: monospace;
+    text-align: center;
+
+    text-shadow: HSL(60,100%,25%) 1px 0 10px;
+}
+#span1{
+    color: RGBA(0,128,128,1);
+    font-family: initial;
+    text-decoration: underline;
+    font-size: 15pt;
+    line-height:1;
+}
+#span2{
+    color: HSLA(60,100%,25%,0.8);
+    font-family: unset; 
+    text-decoration: line-through;
+    font-size: 20pt;
+    line-height:1;
+}
+/*new*/
+h1::first-letter,h2::first-letter,h3::first-letter{
+    border: black;
+    border-radius: 5pt;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    font-size: 150%;
+    color: red;
+    border: 2px solid gray;
+}
+p::first-line{
+    font-size: 120%;
+    text-decoration: underline;
+    color: black;
+}
+p::before{
+    content: "\"";
+    color: black;
+}
+p::after{
+    content: "\"";
+    color: black;
+}
+/*список*/
+ol li{
+    color: teal;
+    font-family: inherit;
+}
+ul li{
+    color: seagreen;
+    font-family: cursive;
+}
+/*ссылки*/
+a:hover{
+    color: olive;
+    font-size: 110%;
+}
+a:visited{
+    color: gray;
+}
+a:active{
+    font-size: 50%;
+}
+a:link{
+    color: gold;
+}
+/*таблица*/
+table{
+    border-radius: 5px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    border-spacing: 1px;
+    border-color: white;
+}
+th, td{
+    border-width: 0 1px 1px 0;
+    text-align: center;
+}
+th{
+    background-color: rgb(173, 177, 255);
+}
+td{
+    background-color: rgb(217, 217, 243);
+}
