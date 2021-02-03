@@ -1,0 +1,62 @@
+.menu_1 ul{
+	list-style: none;
+	padding-left:none;
+	margin:0;
+	padding-left:5px;
+}
+.menu_1 li{
+	display: inline;
+	padding: 2px 6px 8px 6px;
+	margin-right: -5px;
+	border: 1px solid;
+}
+.menu_1 a{
+	text-decoration: none;
+	color: black;
+}
+.menu_1 a:hover{
+	color: red;
+}
+
+.menu_2 ul{
+	list-style: none;
+	padding-left:none;
+	margin:0;
+	padding-left:5px;
+	margin-top:15px;
+}
+.menu_2 li{
+	display: inline;
+	padding: 2px 6px 8px 6px;
+	margin-right: -15px;
+}
+.menu_2 li:before{
+	content: "|";
+}
+.menu_2 li:last-child:after{
+	content: "|";
+}
+.menu_2 a{
+	text-decoration: none;
+	color: black;
+}
+.menu_2 a:hover{
+	color: red;
+}
+
+.menu_3 table{
+	margin-top: 10px;
+	border-collapse: collapse;
+}
+.menu_3 td{
+	text-decoration: none;
+	border: 1px solid;
+	border-collapse: collapse;	
+}
+.menu_3 a{
+	text-decoration: none;
+	color: black;
+}
+.menu_3 a:hover{
+	color: red;
+}

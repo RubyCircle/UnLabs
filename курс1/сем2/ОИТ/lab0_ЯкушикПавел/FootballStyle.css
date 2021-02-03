@@ -1,0 +1,42 @@
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+}
+.block div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col{
+    flex-basis: 100%;
+}
+.row{
+    justify-content: flex-start;
+    padding: 10px;
+    flex-basis: 100%;
+    background-color: rgb(126, 169, 248);
+    justify-content: center;
+    text-transform: uppercase;
+}
+.left{
+    background-color:rgb(253, 234, 127);
+    flex-basis: 120px;
+    padding: 5px;
+}
+.right{
+    flex-basis: 80%;
+    padding: 5px;
+}
+.menu{
+    display: flex;
+}
+.right-menu{
+    padding: 5px;
+    height: 100px;
+    flex-basis: 120px;
+}
+h2{
+	margin: 0px;
+	justify-content: center;
+	
+}
