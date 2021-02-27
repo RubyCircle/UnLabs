@@ -1,0 +1,7 @@
+Сравнение файлов 1.txt и TEMP\2.TXT
+***** 1.txt
+asdfasfasdfas
+***** TEMP\2.TXT
+dsfs23fsdf
+*****
+

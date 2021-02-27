@@ -1,0 +1,474 @@
+ Том в устройстве F имеет метку ESD-USB
+ Серийный номер тома: 842C-BCDF
+
+ Содержимое папки F:\ОИТ
+
+с этого начать 2 семестр_Повторение HTML.docx
+               1 файлов        773 599 байт
+
+ Содержимое папки F:\АЛОЦВМ
+
+7_GLAVA_KOMP_YuTERNYE_SISTEMY_I_SETI_praktikum.docx
+               1 файлов      1 549 307 байт
+
+ Содержимое папки F:\ОС\ОС_практика
+
+1 Лаб1_cmd.doc                       10 Лаб10_УправПамятью.doc
+11 Лаб11_Куча.doc                    12 Лаб12_Стек.doc
+13 Lab13_Taymery.doc                 14 Lab11_Klient_Server.doc
+15LABORATORNAYa_RABOTA15_PIPES.doc   2 Лаб2_BATCH.doc
+3 Лаб3_Консоль.doc                   3а Лаб3А_VBS.doc
+4 Лаб4_Окнаindows.doc                5 Лаб5_Кнопки_Диалоги.doc
+6 Лаб6_Файлы.doc                     7 Лаб7_Процессы.doc
+8 Лаб8_ПроцессыИПотоки.doc           9 Лаб9_Синхронизация.doc
+Лаб13_ЗащитаИнформации.doc           Лаб7.ИспользованиеАссембл.doc
+              18 файлов      1 573 888 байт
+
+     Всего файлов:
+              20 файлов      3 896 794 байт
+               0 папок  15 545 278 464 байт свободно
+ Том в устройстве F имеет метку ESD-USB
+ Серийный номер тома: 842C-BCDF
+
+ Содержимое папки F:\
+
+16.11.2020  10:56    <DIR>          FOUND.000
+08.01.2020  13:12    <DIR>          System Volume Information
+04.02.2021  16:08    <DIR>          АЛОЦВМ
+04.02.2021  16:08    <DIR>          ОАиП
+01.02.2021  19:26    <DIR>          ОИТ
+04.02.2021  19:46    <DIR>          ОС
+               0 файлов              0 байт
+
+ Содержимое папки F:\System Volume Information
+
+08.01.2020  13:12    <DIR>          .
+08.01.2020  13:12    <DIR>          ..
+02.04.2020  21:30    <DIR>          AadRecoveryPasswordDelete
+02.04.2020  21:30    <DIR>          ClientRecoveryPasswordRotation
+               0 файлов              0 байт
+
+ Содержимое папки F:\System Volume Information\ClientRecoveryPasswordRotation
+
+02.04.2020  21:30    <DIR>          .
+02.04.2020  21:30    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\System Volume Information\AadRecoveryPasswordDelete
+
+02.04.2020  21:30    <DIR>          .
+02.04.2020  21:30    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\FOUND.000
+
+16.11.2020  10:56    <DIR>          .
+16.11.2020  10:56    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ
+
+01.02.2021  19:26    <DIR>          .
+01.02.2021  19:26    <DIR>          ..
+01.02.2021  19:27    <DIR>          lab0_ЯкушикПавел
+05.02.2021  22:01    <DIR>          lab1_ЯкушикПавел
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab0_ЯкушикПавел
+
+01.02.2021  19:27    <DIR>          .
+01.02.2021  19:27    <DIR>          ..
+08.02.2021  20:16    <DIR>          bac
+03.02.2021  08:46    <DIR>          img
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab0_ЯкушикПавел\img
+
+03.02.2021  08:46    <DIR>          .
+03.02.2021  08:46    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab0_ЯкушикПавел\bac
+
+08.02.2021  20:16    <DIR>          .
+08.02.2021  20:16    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab1_ЯкушикПавел
+
+05.02.2021  22:01    <DIR>          .
+05.02.2021  22:01    <DIR>          ..
+05.02.2021  22:06    <DIR>          ex1
+05.02.2021  22:13    <DIR>          ex2
+05.02.2021  22:49    <DIR>          ex3
+05.02.2021  22:58    <DIR>          ex4
+05.02.2021  23:09    <DIR>          ex5
+05.02.2021  23:15    <DIR>          ex6
+05.02.2021  23:27    <DIR>          ex7
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab1_ЯкушикПавел\ex1
+
+05.02.2021  22:06    <DIR>          .
+05.02.2021  22:06    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab1_ЯкушикПавел\ex2
+
+05.02.2021  22:13    <DIR>          .
+05.02.2021  22:13    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab1_ЯкушикПавел\ex3
+
+05.02.2021  22:49    <DIR>          .
+05.02.2021  22:49    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab1_ЯкушикПавел\ex4
+
+05.02.2021  22:58    <DIR>          .
+05.02.2021  22:58    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab1_ЯкушикПавел\ex5
+
+05.02.2021  23:09    <DIR>          .
+05.02.2021  23:09    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab1_ЯкушикПавел\ex6
+
+05.02.2021  23:15    <DIR>          .
+05.02.2021  23:15    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОИТ\lab1_ЯкушикПавел\ex7
+
+05.02.2021  23:27    <DIR>          .
+05.02.2021  23:27    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\АЛОЦВМ
+
+04.02.2021  16:08    <DIR>          .
+04.02.2021  16:08    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП
+
+04.02.2021  16:08    <DIR>          .
+04.02.2021  16:08    <DIR>          ..
+01.02.2021  15:58    <DIR>          ConsoleApplication1
+07.02.2021  21:43    <DIR>          lab1
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1
+
+01.02.2021  15:58    <DIR>          .
+01.02.2021  15:58    <DIR>          ..
+01.02.2021  15:59    <DIR>          .vs
+01.02.2021  16:00    <DIR>          Debug
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs
+
+01.02.2021  15:59    <DIR>          .
+01.02.2021  15:59    <DIR>          ..
+01.02.2021  15:59    <DIR>          ConsoleApplication1
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs\ConsoleApplication1
+
+01.02.2021  15:59    <DIR>          .
+01.02.2021  15:59    <DIR>          ..
+01.02.2021  15:59    <DIR>          v16
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs\ConsoleApplication1\v16
+
+01.02.2021  15:59    <DIR>          .
+01.02.2021  15:59    <DIR>          ..
+01.02.2021  15:59    <DIR>          ipch
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs\ConsoleApplication1\v16\ipch
+
+01.02.2021  15:59    <DIR>          .
+01.02.2021  15:59    <DIR>          ..
+01.02.2021  15:59    <DIR>          AutoPCH
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs\ConsoleApplication1\v16\ipch\AutoPCH
+
+01.02.2021  15:59    <DIR>          .
+01.02.2021  15:59    <DIR>          ..
+07.02.2021  20:12    <DIR>          38db94ffc74920d0
+01.02.2021  16:00    <DIR>          7061dd0ffa61317a
+01.02.2021  15:59    <DIR>          7422ad6209ea0a14
+08.02.2021  15:40    <DIR>          f48df02d65f82734
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs\ConsoleApplication1\v16\ipch\AutoPCH\7422ad6209ea0a14
+
+01.02.2021  15:59    <DIR>          .
+01.02.2021  15:59    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs\ConsoleApplication1\v16\ipch\AutoPCH\7061dd0ffa61317a
+
+01.02.2021  16:00    <DIR>          .
+01.02.2021  16:00    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs\ConsoleApplication1\v16\ipch\AutoPCH\38db94ffc74920d0
+
+07.02.2021  20:12    <DIR>          .
+07.02.2021  20:12    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\.vs\ConsoleApplication1\v16\ipch\AutoPCH\f48df02d65f82734
+
+08.02.2021  15:40    <DIR>          .
+08.02.2021  15:40    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\Debug
+
+01.02.2021  16:00    <DIR>          .
+01.02.2021  16:00    <DIR>          ..
+01.02.2021  16:00    <DIR>          ConsoleA.2c0c79af.tlog
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\ConsoleApplication1\Debug\ConsoleA.2c0c79af.tlog
+
+01.02.2021  16:00    <DIR>          .
+01.02.2021  16:00    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОАиП\lab1
+
+07.02.2021  21:43    <DIR>          .
+07.02.2021  21:43    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС
+
+04.02.2021  19:46    <DIR>          .
+04.02.2021  19:46    <DIR>          ..
+04.02.2021  19:47    <DIR>          lab1
+04.02.2021  19:42    <DIR>          ОС_практика
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\ОС_практика
+
+04.02.2021  19:42    <DIR>          .
+04.02.2021  19:42    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1
+
+04.02.2021  19:47    <DIR>          .
+04.02.2021  19:47    <DIR>          ..
+10.02.2021  07:41    <DIR>          1
+04.02.2021  20:48    <DIR>          First
+04.02.2021  19:48    <DIR>          New
+04.02.2021  20:21    <DIR>          New1
+04.02.2021  19:47    <DIR>          samples
+04.02.2021  20:48    <DIR>          Second
+04.02.2021  20:40    <DIR>          temp
+04.02.2021  20:32    <DIR>          Temporary
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\samples
+
+04.02.2021  19:47    <DIR>          .
+04.02.2021  19:47    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\temp
+
+04.02.2021  19:48    <DIR>          .
+04.02.2021  19:48    <DIR>          ..
+04.02.2021  20:20    <DIR>          ct
+10.02.2021  07:23    <DIR>          First
+10.02.2021  07:24    <DIR>          Second
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\temp\ct
+
+04.02.2021  20:20    <DIR>          .
+04.02.2021  20:20    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\temp\First
+
+10.02.2021  07:23    <DIR>          .
+10.02.2021  07:23    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\temp\Second
+
+10.02.2021  07:24    <DIR>          .
+10.02.2021  07:24    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\New
+
+04.02.2021  20:18    <DIR>          .
+04.02.2021  20:18    <DIR>          ..
+04.02.2021  20:20    <DIR>          ct
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\New\ct
+
+04.02.2021  20:20    <DIR>          .
+04.02.2021  20:20    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\New1
+
+04.02.2021  20:21    <DIR>          .
+04.02.2021  20:21    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\Temporary
+
+04.02.2021  20:32    <DIR>          .
+04.02.2021  20:32    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\First
+
+04.02.2021  20:48    <DIR>          .
+04.02.2021  20:48    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\Second
+
+04.02.2021  20:48    <DIR>          .
+04.02.2021  20:48    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки F:\ОС\lab1\1
+
+10.02.2021  07:41    <DIR>          .
+10.02.2021  07:41    <DIR>          ..
+               0 файлов              0 байт
+
+     Всего файлов:
+               0 файлов              0 байт
+             138 папок  15 545 016 320 байт свободно
+ Том в устройстве C имеет метку Локальный диск Windows
+ Серийный номер тома: 5E7F-11AC
+
+ Содержимое папки C:\Windows
+
+10.02.2021  01:02    <DIR>          NT SERVICE\TrustedInsta.
+10.02.2021  01:02    <DIR>          NT SERVICE\TrustedInsta..
+07.12.2019  17:35    <DIR>          NT SERVICE\TrustedInstaaddins
+24.01.2021  23:30                 0 BUILTIN\Администраторы ammark.tag
+24.01.2021  23:30                 0 BUILTIN\Администраторы ammark2.tag
+22.12.2020  14:58         2 201 168 BUILTIN\Администраторы ampa.exe
+22.09.2020  09:05    <DIR>          NT AUTHORITY\СИСТЕМА   appcompat
+12.12.2020  10:50    <DIR>          NT SERVICE\TrustedInstaapppatch
+09.02.2021  23:50    <DIR>          NT AUTHORITY\СИСТЕМА   AppReadiness
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstabcastdvr
+15.01.2021  18:34            77 824 NT SERVICE\TrustedInstabfsvc.exe
+07.12.2019  12:31    <DIR>          NT SERVICE\TrustedInstaBoot
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaBranding
+10.02.2021  07:21    <DIR>          BUILTIN\Администраторы CbsTemp
+21.09.2020  19:32               762 NT AUTHORITY\СИСТЕМА   comsetup.log
+07.12.2019  17:58    <DIR>          NT AUTHORITY\СИСТЕМА   Containers
+02.04.2020  16:32    <DIR>          ...                    CSC
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaCursors
+22.12.2020  14:58         1 305 680 BUILTIN\Администраторы ddmmain.exe
+16.11.2020  08:25    <DIR>          NT AUTHORITY\СИСТЕМА   debug
+21.09.2020  19:36             7 623 ...                    diagerr.xml
+07.12.2019  12:31    <DIR>          NT SERVICE\TrustedInstadiagnostics
+21.09.2020  19:24    <DIR>          NT SERVICE\TrustedInstaDiagTrack
+21.09.2020  19:36             7 623 ...                    diagwrn.xml
+07.12.2019  17:34    <DIR>          NT AUTHORITY\СИСТЕМА   DigitalLocker
+30.12.2020  20:00            98 663 NT AUTHORITY\СИСТЕМА   DirectX.log
+07.12.2019  12:17               776 BUILTIN\Администраторы DtcInstall.log
+12.11.2020  13:04    <DIR>          NT SERVICE\TrustedInstaen-US
+16.01.2021  12:44         4 708 328 NT SERVICE\TrustedInstaexplorer.exe
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaGameBarPresenceWriter
+24.01.2021  23:30             1 152 BUILTIN\Администраторы GA_NT.dat
+07.12.2019  12:31    <DIR>          NT SERVICE\TrustedInstaGlobalization
+07.12.2019  17:34    <DIR>          NT AUTHORITY\СИСТЕМА   Help
+16.01.2021  12:46         1 076 224 NT SERVICE\TrustedInstaHelpPane.exe
+07.12.2019  12:09            18 432 NT SERVICE\TrustedInstahh.exe
+07.12.2019  12:31    <DIR>          NT AUTHORITY\СИСТЕМА   IdentityCRL
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstaIME
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstaImmersiveControlPanel
+10.02.2021  07:15    <DIR>          NT SERVICE\TrustedInstaINF
+07.12.2019  12:14    <DIR>          NT AUTHORITY\СИСТЕМА   InputMethod
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaL2Schemas
+10.02.2021  01:29    <DIR>          ...                    LiveKernelReports
+09.02.2021  22:19    <DIR>          NT AUTHORITY\СИСТЕМА   Logs
+07.12.2019  12:08            43 131 NT SERVICE\TrustedInstamib.bin
+10.02.2021  07:12    <DIR>          NT SERVICE\TrustedInstaMicrosoft.NET
+07.12.2019  12:14    <DIR>          NT AUTHORITY\СИСТЕМА   Migration
+09.12.2020  08:35    <DIR>          ...                    Minidump
+07.12.2019  12:14    <DIR>          ...                    ModemLogs
+16.01.2021  12:47           202 240 NT SERVICE\TrustedInstanotepad.exe
+11.01.2021  19:26             1 951 BUILTIN\Администраторы NvContainerRecovery.bat
+07.12.2019  17:36    <DIR>          NT SERVICE\TrustedInstaOCR
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaOffline Web Pages
+16.01.2021  12:09    <DIR>          NT AUTHORITY\СИСТЕМА   Panther
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaPerformance
+10.02.2021  01:02         1 339 680 BUILTIN\Администраторы PFRO.log
+07.12.2019  12:31    <DIR>          NT AUTHORITY\СИСТЕМА   PLA
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstaPolicyDefinitions
+10.02.2021  08:26    <DIR>          ...                    Prefetch
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstaPrintDialog
+07.12.2019  12:10            30 831 BUILTIN\Администраторы Professional.xml
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstaProvisioning
+16.01.2021  12:46           370 176 NT SERVICE\TrustedInstaregedit.exe
+07.12.2019  12:31    <DIR>          BUILTIN\Администраторы Registration
+07.12.2019  17:37    <DIR>          NT AUTHORITY\СИСТЕМА   RemotePackages
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstarescache
+07.12.2019  12:31    <DIR>          NT SERVICE\TrustedInstaResources
+12.11.2020  13:04    <DIR>          NT AUTHORITY\СИСТЕМА   ru-RU
+07.12.2019  12:14    <DIR>          NT AUTHORITY\СИСТЕМА   SchCache
+21.09.2020  19:15    <DIR>          NT SERVICE\TrustedInstaschemas
+07.12.2019  17:37    <DIR>          NT SERVICE\TrustedInstasecurity
+21.09.2020  19:26    <DIR>          NT AUTHORITY\СИСТЕМА   ServiceProfiles
+21.09.2020  19:30    <DIR>          ...                    ServiceState
+23.11.2020  18:15    <DIR>          NT SERVICE\TrustedInstaservicing
+21.09.2020  19:30    <DIR>          BUILTIN\Администраторы Setup
+09.02.2021  23:50            43 606 NT AUTHORITY\СИСТЕМА   setupact.log
+21.09.2020  19:30                 0 NT AUTHORITY\СИСТЕМА   setuperr.log
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstaShellComponents
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstaShellExperiences
+04.11.2020  09:12    <DIR>          NT AUTHORITY\СИСТЕМА   SHELLNEW
+07.12.2019  12:31    <DIR>          NT SERVICE\TrustedInstaSKB
+21.09.2020  19:36    <DIR>          NT AUTHORITY\СИСТЕМА   SoftwareDistribution
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaSpeech
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaSpeech_OneCore
+15.01.2021  18:34           136 192 NT SERVICE\TrustedInstasplwow64.exe
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaSystem
+19.03.2019  07:49               219 NT AUTHORITY\СИСТЕМА   system.ini
+10.02.2021  07:15    <DIR>          NT SERVICE\TrustedInstaSystem32
+07.12.2019  17:37    <DIR>          NT AUTHORITY\СИСТЕМА   SystemApps
+17.01.2021  00:39    <DIR>          NT SERVICE\TrustedInstaSystemResources
+10.02.2021  01:02    <DIR>          NT SERVICE\TrustedInstaSysWOW64
+07.12.2019  12:14    <DIR>          NT AUTHORITY\СИСТЕМА   TAPI
+12.12.2020  11:01    <DIR>          NT AUTHORITY\СИСТЕМА   Tasks
+10.02.2021  07:37    <DIR>          ...                    Temp
+14.05.2020  22:45    <DIR>          NT SERVICE\TrustedInstaTextInput
+07.12.2019  12:14    <DIR>          NT AUTHORITY\СИСТЕМА   tracing
+21.09.2020  19:24    <DIR>          NT SERVICE\TrustedInstatwain_32
+07.12.2019  12:10            65 024 NT SERVICE\TrustedInstatwain_32.dll
+07.12.2019  12:14    <DIR>          NT AUTHORITY\СИСТЕМА   Vss
+07.12.2019  12:14    <DIR>          NT SERVICE\TrustedInstaWaaS
+07.12.2019  12:31    <DIR>          NT SERVICE\TrustedInstaWeb
+19.03.2019  07:49                92 NT AUTHORITY\СИСТЕМА   win.ini
+10.02.2021  08:01               276 NT AUTHORITY\СИСТЕМА   WindowsUpdate.log
+07.12.2019  12:10            11 776 NT SERVICE\TrustedInstawinhlp32.exe
+10.02.2021  07:21    <DIR>          NT SERVICE\TrustedInstaWinSxS
+07.12.2019  17:37           316 640 NT SERVICE\TrustedInstaWMSysPr9.prx
+07.12.2019  00:29            11 264 NT SERVICE\TrustedInstawrite.exe
+              30 файлов     12 077 353 байт
+              76 папок  17 560 543 232 байт свободно

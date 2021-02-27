@@ -1,0 +1,5 @@
+Ivan 12
+Peta 2
+lexa 13
+Abramov 66
+Gidov 44
