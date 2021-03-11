@@ -1,1 +1,1 @@
-systeminfo | find /i "Bios" > bios.txt & bios.txt
+systeminfo | find /i "Bios" > bios.txt & type bios.txt
